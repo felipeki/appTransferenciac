@@ -1,0 +1,13 @@
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\bin\Debug\netcoreapp3.1\appTransferencia.exe
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\bin\Debug\netcoreapp3.1\appTransferencia.deps.json
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\bin\Debug\netcoreapp3.1\appTransferencia.runtimeconfig.json
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\bin\Debug\netcoreapp3.1\appTransferencia.runtimeconfig.dev.json
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\bin\Debug\netcoreapp3.1\appTransferencia.dll
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\bin\Debug\netcoreapp3.1\appTransferencia.pdb
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\obj\Debug\netcoreapp3.1\appTransferencia.csprojAssemblyReference.cache
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\obj\Debug\netcoreapp3.1\appTransferencia.AssemblyInfoInputs.cache
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\obj\Debug\netcoreapp3.1\appTransferencia.AssemblyInfo.cs
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\obj\Debug\netcoreapp3.1\appTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\obj\Debug\netcoreapp3.1\appTransferencia.dll
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\obj\Debug\netcoreapp3.1\appTransferencia.pdb
+C:\Users\Felipe\dio\appTransferenciac#\appTransferencia\obj\Debug\netcoreapp3.1\appTransferencia.genruntimeconfig.cache
